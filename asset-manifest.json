@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "https://miniclouddev.github.io/csb-s3xxh/static/css/main.cb3db808.chunk.css",
-    "main.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/main.2cd2e3ea.chunk.js",
-    "main.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/main.2cd2e3ea.chunk.js.map",
-    "runtime~main.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/runtime~main.2ed057d6.js",
-    "runtime~main.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/runtime~main.2ed057d6.js.map",
-    "static/css/2.c46e0e89.chunk.css": "https://miniclouddev.github.io/csb-s3xxh/static/css/2.c46e0e89.chunk.css",
-    "static/js/2.17b4616d.chunk.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/2.17b4616d.chunk.js",
-    "static/js/2.17b4616d.chunk.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/2.17b4616d.chunk.js.map",
+    "main.css": "https://miniclouddev.github.io/csb-s3xxh/static/css/main.1ba18df9.chunk.css",
+    "main.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/main.924ee0ea.chunk.js",
+    "main.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/main.924ee0ea.chunk.js.map",
+    "runtime-main.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/runtime-main.02322eda.js",
+    "runtime-main.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/runtime-main.02322eda.js.map",
+    "static/css/2.9dd370fd.chunk.css": "https://miniclouddev.github.io/csb-s3xxh/static/css/2.9dd370fd.chunk.css",
+    "static/js/2.2e5c9a95.chunk.js": "https://miniclouddev.github.io/csb-s3xxh/static/js/2.2e5c9a95.chunk.js",
+    "static/js/2.2e5c9a95.chunk.js.map": "https://miniclouddev.github.io/csb-s3xxh/static/js/2.2e5c9a95.chunk.js.map",
     "index.html": "https://miniclouddev.github.io/csb-s3xxh/index.html",
-    "precache-manifest.160aaad5efdd469e40127ff07220a022.js": "https://miniclouddev.github.io/csb-s3xxh/precache-manifest.160aaad5efdd469e40127ff07220a022.js",
-    "service-worker.js": "https://miniclouddev.github.io/csb-s3xxh/service-worker.js",
-    "static/css/2.c46e0e89.chunk.css.map": "https://miniclouddev.github.io/csb-s3xxh/static/css/2.c46e0e89.chunk.css.map",
-    "static/css/main.cb3db808.chunk.css.map": "https://miniclouddev.github.io/csb-s3xxh/static/css/main.cb3db808.chunk.css.map"
-  }
+    "static/css/2.9dd370fd.chunk.css.map": "https://miniclouddev.github.io/csb-s3xxh/static/css/2.9dd370fd.chunk.css.map",
+    "static/css/main.1ba18df9.chunk.css.map": "https://miniclouddev.github.io/csb-s3xxh/static/css/main.1ba18df9.chunk.css.map",
+    "static/js/2.2e5c9a95.chunk.js.LICENSE.txt": "https://miniclouddev.github.io/csb-s3xxh/static/js/2.2e5c9a95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02322eda.js",
+    "static/css/2.9dd370fd.chunk.css",
+    "static/js/2.2e5c9a95.chunk.js",
+    "static/css/main.1ba18df9.chunk.css",
+    "static/js/main.924ee0ea.chunk.js"
+  ]
 }
